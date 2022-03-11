@@ -33,3 +33,25 @@
     padding-left: 30px;
     color: #fceae8;
 }
+.card{
+   border-radius: 120px;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    /* page-break-inside: 200px; */
+}
+.card-body{
+    margin-left: 20px;
+}
+.card .card-footer{
+    background-color: white;
+   
+   border-top: none;
+
+    
+    
+}
